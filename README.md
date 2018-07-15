@@ -1,3 +1,6 @@
+## Objetive
+Develop of deep learning algorithms to Regressions and Clasification Problems.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/castellwhite/Deep-Learning-Exercises/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
